@@ -1,0 +1,53 @@
+{
+    "LIB1": {
+        "borrowed_books": [
+            "Book1",
+            "Book2",
+            "Book3"
+        ]
+    },
+    "LIB2": {
+        "borrowed_books": [
+            "Book1",
+            "Book2",
+            "Book3"
+        ]
+    },
+    "LIB3": {
+        "borrowed_books": []
+    },
+    "LIB4": {
+        "borrowed_books": []
+    },
+    "LIB5": {
+        "borrowed_books": [
+            "Book9",
+            "Book6",
+            "Book1"
+        ]
+    },
+    "LIB6": {
+        "borrowed_books": []
+    },
+    "LIB7": {
+        "borrowed_books": []
+    },
+    "LIB8": {
+        "borrowed_books": []
+    },
+    "LIB9": {
+        "borrowed_books": []
+    },
+    "LIB10": {
+        "borrowed_books": []
+    },
+    "LIB11": {
+        "borrowed_books": []
+    },
+    "LIB12": {
+        "borrowed_books": []
+    },
+    "LIB13": {
+        "borrowed_books": []
+    }
+}

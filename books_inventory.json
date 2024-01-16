@@ -1,0 +1,56 @@
+{
+    "Book1": {
+        "copies": 2,
+        "current_borrowers": [
+            "LIB1",
+            "LIB2",
+            "LIB5"
+        ]
+    },
+    "Book2": {
+        "copies": 3,
+        "current_borrowers": [
+            "LIB1",
+            "LIB2"
+        ]
+    },
+    "Book3": {
+        "copies": 3,
+        "current_borrowers": [
+            "LIB1",
+            "LIB2"
+        ]
+    },
+    "Book4": {
+        "copies": 5,
+        "current_borrowers": []
+    },
+    "Book5": {
+        "copies": 5,
+        "current_borrowers": []
+    },
+    "Book6": {
+        "copies": 4,
+        "current_borrowers": [
+            "LIB5"
+        ]
+    },
+    "Book7": {
+        "copies": 5,
+        "current_borrowers": []
+    },
+    "Book8": {
+        "copies": 5,
+        "current_borrowers": []
+    },
+    "Book9": {
+        "copies": 4,
+        "current_borrowers": [
+            "LIB5"
+        ]
+    },
+    "Book10": {
+        "copies": 5,
+        "current_borrowers": []
+    }
+}
